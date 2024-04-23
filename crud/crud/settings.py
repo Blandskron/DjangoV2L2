@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'cruddb',
         'USER': 'postgres',
-        'PASSWORD': 'kATYTA15',
+        'PASSWORD': 'admin1234',
         'HOST': 'localhost',
         'PORT': '5432',
     }
